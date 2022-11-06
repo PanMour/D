@@ -10,8 +10,8 @@ categories:
   - consoles 
   - archetypes
   - online interaction between humans? (timeline)
-  - multi-utility? (timeline or slides)
-  - home (game/used?) device? (slides)
+  - multi-utility devices? (timeline or slides)
+  - home (game/used?) device? (slides)!
 tags:
   - Xbox, Microsoft
 ---
