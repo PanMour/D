@@ -6,7 +6,7 @@ caption: 'Το Xbox μπορεί να μην είναι η πρώτη κονσό
 license_url: 'https://en.wikipedia.org/wiki/File:Xbox-console.jpg'
 license_text: from Wikipedia
 categories:
-  - Κονσόλες, archetypes
+  - console, archetypes
 tags:
   - Xbox, Microsoft
 ---
