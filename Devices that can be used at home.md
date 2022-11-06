@@ -5,7 +5,7 @@ image_url: /images/xbox-console.jpg
 caption: Συσκυές οι οποίες έχουν πρακτική ή ψυχαγογική χρήση και βρίσκονται κυρίως σε καθημερινά σπίτια (π.χ. τηλεόραση,κονσόλες,εκτυπωτές, κ.τ.λ.). 
 slides:
   - xbox-console
-  - 
-  - 
-  - 
+  - kodak-hifi
+  - notifications
+  - xerox-alto
 ---
