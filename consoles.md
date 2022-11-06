@@ -7,5 +7,4 @@ slides:
   - xbox-console
   - spacewar-players
   - atari-2600
-  - 
 ---
