@@ -6,5 +6,6 @@ caption: Όλοι οι τρόποι με τους οποίους ο άνθρωπ
 slides:
   - oxo
   - pong
-  - models
+  - relational-agent
+  - 
 ---
