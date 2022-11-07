@@ -7,5 +7,4 @@ slides:
   - oxo
   - pong
   - relational-agent
-  - 
 ---
