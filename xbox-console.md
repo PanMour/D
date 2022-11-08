@@ -9,9 +9,7 @@ license_text: from Wikipedia
 categories:
   - consoles 
   - archetypes
-  - online interaction between humans? (timeline)
-  - multi-utility devices? (timeline or slides)
-  - home (game/used?) device? (slides)!
+  - home device
 tags:
   - Xbox, Microsoft
 ---
