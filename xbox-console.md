@@ -11,5 +11,6 @@ categories:
   - archetypes
   - home device
 tags:
-  - Xbox, Microsoft
+  - Xbox 
+  - Microsoft
 ---
