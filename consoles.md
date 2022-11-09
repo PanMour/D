@@ -8,5 +8,4 @@ events:
   - spacewar-gamepad
   - magnavox-odyssey
   - atari-2600
-  - xbox-console
 ---
