@@ -9,7 +9,7 @@ license_text: from Wikipedia
 categories:
   - consoles 
   - archetypes
-  - home device
+  - human-computer-interaction
 tags:
   - Xbox 
   - Microsoft
