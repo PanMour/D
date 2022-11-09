@@ -9,7 +9,7 @@ license_text: from Wikipedia
 categories:
   - consoles 
   - archetypes
-  - human-computer-interaction
+  - αλληλεπίδραση ανθρώπου-υπολογιστή
 tags:
   - Xbox 
   - Microsoft
